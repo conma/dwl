@@ -1,0 +1,10 @@
+.idea
+.settings
+.classpath
+bin
+out
+target
+
+*.class
+*.iml
+*.exe
